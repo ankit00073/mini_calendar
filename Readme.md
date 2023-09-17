@@ -38,3 +38,7 @@ The JavaScript code that updates the calendar is placed at the bottom of the HTM
     document.getElementById("date").textContent = dayNumber;
     document.getElementById("year").textContent = year;
 </script>
+
+```
+
+## Hosted Link :- https://ankit00073.github.io/mini_calendar/
